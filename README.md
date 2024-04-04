@@ -5,7 +5,7 @@ Solving key challenges of shipment and inventory management, analyze supply chai
 
 Objective:
 
-The primary objective of this case study is to analyze the supply chain data provided and create interactive Tableau dashboards that offer actionable insights for business stakeholders. By leveraging Tableau skills, participants will visualize complex data sets, perform calculations, and develop intuitive dashboards to effectively communicate their findings.
+The primary objective of this case study is to analyze the supply chain data provided and create interactive Tableau dashboards that offer actionable insights for business stakeholders. By leveraging Tableau skills, complex data sets are visualized, perform calculations, and develop intuitive dashboards to effectively communicate their findings.
 
 
 Dataset:
