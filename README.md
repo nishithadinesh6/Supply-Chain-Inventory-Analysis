@@ -16,7 +16,7 @@ The dataset can be found in the Datasets folder. The dataset provided contains v
 Overview:
 
 
-Throughout the project, structured into three main phases, the groundwork was laid by exploring business challenges related to shipments, leveraging Tableau's visualization capabilities to gain insights into supply chain dynamics. Subsequently, inventory challenges were addressed, employing various calculations and visualization techniques to unravel crucial insights for effective inventory management. Finally, insights and visualizations were consolidated into cohesive, interactive dashboards aimed at providing stakeholders with actionable insights and facilitating informed decision-making processes.
+The groundwork was laid by exploring business challenges related to shipments, leveraging Tableau's visualization capabilities to gain insights into supply chain dynamics. Subsequently, inventory challenges were addressed, employing various calculations and visualization techniques to unravel crucial insights for effective inventory management. Finally, insights and visualizations were consolidated into cohesive, interactive dashboards aimed at providing stakeholders with actionable insights and facilitating informed decision-making processes.
 
 
 Key Skills Demonstrated:
